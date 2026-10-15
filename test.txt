@@ -1,3 +1,0 @@
-This is my second file.
-Learning Git add, commit and push.
-This file is modified to practise Git operations.
